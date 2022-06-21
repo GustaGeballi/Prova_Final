@@ -1,0 +1,77 @@
+{
+  "carros": [
+    {
+      "id": 1,
+      "marca": "Audi",
+      "nome": "R8",
+      "combustivel": "Gasolina Podium",
+      "tracao": "traseira",
+      "preco": 1310990,
+      "categoria": "Esportivo",
+      "categoria_id": 1
+    },
+    {
+      "id": 2,
+      "marca": "Porsche",
+      "nome": "Boxster S",
+      "combustivel": "Gasolina Podium",
+      "tracao": "traseira",
+      "preco": 399990,
+      "categoria": "Esportivo",
+      "categoria_id": 1
+    },
+    {
+      "id": 3,
+      "marca": "Gurgel",
+      "nome": "Itaipu",
+      "combustivel": "Elétrico",
+      "tracao": "dianteira",
+      "preco": 40990,
+      "categoria": "Urbano",
+      "categoria_id": 2
+    },
+    {
+      "id": 4,
+      "marca": "Citroen",
+      "nome": "Xsara Picasso",
+      "combustivel": "Gasolina",
+      "tracao": "dianteira",
+      "preco": 16900,
+      "categoria": "Minivan",
+      "categoria_id": 3
+    },
+    {
+      "id": 5,
+      "marca": "Jeep",
+      "nome": "Compass Trailhawk",
+      "combustivel": "Diesel",
+      "tracao": "4x4",
+      "preco": 248998,
+      "categoria": "SUV",
+      "categoria_id": 4
+    }
+  ],
+
+  "categorias": [
+    {
+      "id": 1,
+      "categoria": "Esportivos"
+    },
+    {
+      "id": 2,
+      "categoria": "Urbano"
+    },
+    {
+      "id": 3,
+      "categoria": "Minivan"
+    },
+    {
+      "id": 4,
+      "categoria": "SUV"
+    },
+    {
+      "id": 5,
+      "categoria": "Caminhonete"
+    }
+  ]
+}
